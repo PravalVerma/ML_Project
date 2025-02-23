@@ -173,3 +173,5 @@ cython_debug/
 #vs code JSon file
 
 .vscode
+.artifacts
+.
